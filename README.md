@@ -1,16 +1,13 @@
-## Hi there 👋
+# DevOps Sandbox
 
-<!--
-**shubbarm/shubbarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A personal workspace for exploring DevOps tools, cloud infrastructure, and automation workflows.
 
-Here are some ideas to get you started:
+Includes hands-on experiments with:
+- Cloud platforms (primarily AWS)
+- Infrastructure as Code (Terraform)
+- Containerization (Docker)
+- Orchestration (Kubernetes)
+- CI/CD pipelines and GitOps practices
+- Monitoring and logging tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> This space is always evolving — built for learning, testing, and refining ideas.

@@ -16,4 +16,4 @@ Hands-on experiments with:
 
 ---
 
-> 🧪 This space is always evolving — built for learning, testing, and refining ideas.
+> This space is always evolving — built for learning, testing, and refining ideas.

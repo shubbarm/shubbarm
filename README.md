@@ -1,4 +1,4 @@
-# 🧱 Infrastructure Sandbox
+# Infrastructure Sandbox
 
 A personal workspace for exploring **DevOps tools**, **cloud infrastructure**, and **automation workflows**.
 
